@@ -1,6 +1,6 @@
 ### Hi, I'm Vaclav 👋
 
-I am a self-taught web developer with with a shared love for both code and aesthetics. My goal is always to use the right technology to do things better, faster and easier. I believe in the power of a diverse and unified team, and I pride myself in my approach of solving problems creatively. Let's build together!<br />
+I am a frontend developer with with shared love for both code and aesthetics. My goal is always to use the right technology to do things better, faster and easier. I believe in the power of a diverse and unified team, and I pride myself in my approach of solving problems creatively. Let's build together!<br />
 
 ## Find me around the web 🌎: <a href="https://github.com/sponsors/VasekS/"><img align="left" width="150" height="150" src="https://octodex.github.com/images/daftpunktocat-thomas.gif"></a>
 - Freelancing on <a href="https://www.upwork.com/freelancers/vaclavsekret">Upwork</a>
