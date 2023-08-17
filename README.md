@@ -5,7 +5,7 @@ I am a frontend developer with with shared love for both code and aesthetics. My
 ## Find me around the web 🌎: <a href="https://github.com/sponsors/VasekS/"><img align="left" width="150" height="150" src="https://octodex.github.com/images/daftpunktocat-thomas.gif"></a>
 - Freelancing on <a href="https://www.upwork.com/freelancers/vaclavsekret">Upwork</a>
 - Sharing updates on <a href="https://www.linkedin.com/in/vaclavsekret/">LinkedIn</a>
-- Showing my projects on <a href="https://www.vaclavsekret.dev">vaclavsekret.dev</a>
+- Showing my projects on <a href="https://vaclavsekret.dev">vaclavsekret.dev</a>
 <br />
 
 ## Tools I'm passionate about 🛠:
