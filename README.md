@@ -2,7 +2,7 @@
 
 I am a frontend developer with with shared love for both code and aesthetics. My goal is always to use the right technology to do things better, faster and easier. I believe in the power of a diverse and unified team, and I pride myself in my approach of solving problems creatively. Let's build together!<br />
 
-## Find me around the web 🌎: <a href="https://github.com/sponsors/VasekS/"><img align="left" width="150" height="150" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" style="padding-right: 20px;"></a>
+## Find me around the web 🌎: <a href="https://github.com/sponsors/VasekS/"><img align="left" width="150" height="150" src="https://octodex.github.com/images/daftpunktocat-thomas.gif"></a>
 -  Freelancing on <a href="https://www.upwork.com/freelancers/vaclavsekret" target="_blank">Upwork</a>
 -  Sharing updates on <a href="https://www.linkedin.com/in/vaclavsekret/" target="_blank">LinkedIn</a>
 -  Showing my projects on <a href="https://vaclavsekret.dev" target="_blank">vaclavsekret.dev</a>
